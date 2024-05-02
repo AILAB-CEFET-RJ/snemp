@@ -1,0 +1,14 @@
+name: dl
+channels:
+  - default
+  - conda-forge
+  - pytorch
+dependencies:
+  - transformers
+  - pytorch
+  - torchaudio
+  - torchvision
+  - huggingface_hub
+  - hiclass
+  - py-xgboost
+prefix: /Users/caioseda/opt/miniconda3/envs/dl
