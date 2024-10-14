@@ -1,19 +1,11 @@
-# Projeto e Construção de Sistemas - CEFET-RJ
-Repositório da disciplina de "Projeto e Construção de Sistemas", do CEFET-RJ, através do Projeto 7 - "Ferramenta para identificação de disparidades em compras públicas, com base em Notas de Empenhos emitidas".
+# SNEMP - CEFET-RJ
+Repositório da ferramenta SNEMP: "Ferramenta para identificação de disparidades em compras públicas, com base em Notas de Empenhos emitidas".
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=REQUERIMENTS_TXT&message=CONCLUIDO&color=green&style=for-the-badge"/>
 <img src="http://img.shields.io/static/v1?label=SELENIUM&message=CONCLUIDO&color=green&style=for-the-badge"/>
 <img src="http://img.shields.io/static/v1?label=DOCKER&message=CONCLUIDO&color=green&style=for-the-badge"/>
 </p>
-
-Grupo 3 (composto por):
-
-- BRUNO FERRARI SENHORA
-
-- IAN ALEXANDER ZAHNER MCINTOSH
-
-- PAULUS JOSEPHUS DE ALMEIDA BARBOSA E DACO
 
 :open_file_folder: 
 
